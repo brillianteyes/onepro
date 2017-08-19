@@ -8,6 +8,6 @@ public class Hello{
 		System.out.println(new java.util.Date);
 	}
 	public static void info() {
-		System.out.println(new java.util.Date);
+		System.out.println("hello world");
 	}
 }
