@@ -8,9 +8,21 @@ public class Hello{
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
 	}
 	public static void info() {
 		System.out.println("hello");
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
+		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
