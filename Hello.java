@@ -4,8 +4,7 @@ public class Hello{
 		
 	}
 	public static void info() {
-		System.out.println("hello  !!");
-		System.out.println("我不是世界");
+		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
 	}
 	public static void info() {
