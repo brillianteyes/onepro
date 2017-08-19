@@ -4,7 +4,7 @@ public class Hello{
 		
 	}
 	public static void info() {
-		System.out.println(new java.util.Date);
+		System.out.println("这一行我想项");
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
 		System.out.println(new java.util.Date);
